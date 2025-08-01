@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+biblioteca-frontend/node_modules/
+
+# Java
+biblioteca-backend-java/target/
+
+# IDEs e arquivos temporários
+.vscode/
+.DS_Store
+*.log
+.env
+
+# Build
+/dist/
+/build/
+
+# Outros
+*.class
+*.jar
+*.war
+*.iml
+.idea/
